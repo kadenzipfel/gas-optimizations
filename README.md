@@ -6,6 +6,7 @@
 - [Proper Data Types](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/proper-data-types.md)
 - [Short Circuiting](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-circuiting.md)
 - [Unnecessary Libraries](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unnecessary-libraries.md)
+- [Immutable State Variables](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/immutable-state-variables.md)
 
 ## Gas Costly Patterns
 

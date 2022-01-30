@@ -1,0 +1,15 @@
+## Immutable State Variables
+
+If a variable is assigned at it's declaration and never reassigned, set it as immutable to save gas.
+
+```
+contract ExpensiveStateVar {
+  uint public MAX_SUPPLY = 10000;
+}
+```
+
+```
+contract CheapImmutableStateVar {
+  uint public immutable MAX_SUPPLY = 10000;
+}
+```

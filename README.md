@@ -8,6 +8,7 @@
 - [Unnecessary Libraries](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unnecessary-libraries.md)
 - [Immutable State Variables](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/immutable-state-variables.md)
 - [Short Revert Strings](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-revert-strings.md)
+- [Unchecked Arithmetic](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unchecked-arithmetic.md)
 
 ## Gas Costly Patterns
 

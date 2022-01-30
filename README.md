@@ -7,6 +7,7 @@
 - [Short Circuiting](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-circuiting.md)
 - [Unnecessary Libraries](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unnecessary-libraries.md)
 - [Immutable State Variables](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/immutable-state-variables.md)
+- [Short Revert Strings](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-revert-strings.md)
 
 ## Gas Costly Patterns
 

@@ -11,3 +11,5 @@ mint()
 // method ID: 0x0000b696
 mint_Aci()
 ```
+
+Useful tool: https://emn178.github.io/solidity-optimize-name/

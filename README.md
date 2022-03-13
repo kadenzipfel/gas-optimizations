@@ -33,3 +33,4 @@
 - https://www.youtube.com/watch?v=qwBkeJ84d2g&feature=youtu.be&t=68
 - https://ethereum.stackexchange.com/questions/11556/use-string-type-or-bytes32
 - https://gist.github.com/hrkrshnn/ee8fabd532058307229d65dcd5836ddc
+- https://github.com/ZeroEkkusu/re-golf-course

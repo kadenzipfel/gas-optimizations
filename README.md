@@ -5,7 +5,6 @@
 - [Explicit Function Visibility](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/explicit-function-visibility.md)
 - [Proper Data Types](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/proper-data-types.md)
 - [Short Circuiting](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-circuiting.md)
-- [Unnecessary Libraries](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unnecessary-libraries.md)
 - [Immutable State Variables](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/immutable-state-variables.md)
 - [Short Revert Strings](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-revert-strings.md)
 - [Unchecked Arithmetic](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unchecked-arithmetic.md)
@@ -20,6 +19,7 @@
 - [Opaque Predicate](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-costly-patterns/opaque-predicate.md)
 - [Repeated Computations in a Loop](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-costly-patterns/repeated-computations-in-a-loop.md)
 - [Storage Variable as Loop Length](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-costly-patterns/storage-variable-as-loop-length.md)
+- [Unnecessary Libraries](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-costly-patterns/unnecessary-libraries.md)
 
 ## Sources/References
 

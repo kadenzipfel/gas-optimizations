@@ -10,6 +10,7 @@
 - [Unchecked Arithmetic](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unchecked-arithmetic.md)
 - [Optimal Comparison Operator](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/optimal-comparison-operator.md)
 - [Payable Functions](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/payable-functions.md)
+- [Function Ordering](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/function-ordering.md)
 
 ## Gas Costly Patterns
 

@@ -9,6 +9,7 @@
 - [Short Revert Strings](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-revert-strings.md)
 - [Unchecked Arithmetic](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/unchecked-arithmetic.md)
 - [Optimal Comparison Operator](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/optimal-comparison-operator.md)
+- [Payable Functions](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/payable-functions.md)
 
 ## Gas Costly Patterns
 

@@ -3,6 +3,8 @@
 Occasionally in smart contracts, you may find that there are two loops with the same parameters. In the case that the loop parameters are the same, there is no reason to have separate loops.
 
 ```
+pragma solidity ^0.8.0;
+
 function loopFusion(uint x, uint y) public pure returns(uint) {
   for(uint i = 0; i < 100; i++) {
     x += 1;

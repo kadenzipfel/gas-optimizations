@@ -7,6 +7,8 @@ For example, it is cheaper to use strict < or > operators over <= or >= operator
 In the case of a conditional statement, it is further optimal to use != when possible.
 
 ```
+pragma solidity ^0.8.0;
+
 // 149 gas
 function a() external pure returns(bool) {
   return 1 > 0;

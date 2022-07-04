@@ -3,8 +3,6 @@
 If an expression in a loop produces the same outcome in each iteration, it can be moved out of the loop. This is especially important when the variables(s) used in the expression are stored in storage.
 
 ```
-pragma solidity ^0.8.0;
-
 uint a = 4;
 uint b = 5;
 function repeatedComputations(uint x) public returns(uint) {

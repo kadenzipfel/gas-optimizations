@@ -9,6 +9,8 @@ contract ExpensiveStateVar {
 ```
 
 ```
+// pragma solidity ^0.8.0;
+
 contract CheapImmutableStateVar {
   uint public immutable MAX_SUPPLY = 10000;
 }

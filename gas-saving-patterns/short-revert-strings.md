@@ -20,6 +20,8 @@ function cheapRevertStrings() {
 Ideally, if you are using solidity >= 0.8.4, it is even better to use custom errors to further save on gas.
 
 ```
+// pragma solidity ^0.8.0;
+
 error CustomError();
 contract CustomErrors {
   if (a < b) {

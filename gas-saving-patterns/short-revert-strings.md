@@ -3,8 +3,6 @@
 Keeping revert strings under 32-bytes prevents the string from being stored in more than one memory slot.
 
 ```
-// pragma solidity ^0.8.0;
-
 function expensiveRevertStrings() {
   require(a < b; "long revert string over 32 bytes");
 }
@@ -13,8 +11,6 @@ function expensiveRevertStrings() {
 Alternatively you can write comments to map short strings to longer ones in your contract, e.g.:
 
 ```
-// pragma solidity ^0.8.0;
-
 // a: long revert string over 32 bytes
 function cheapRevertStrings() {
   require(a < b; "a");

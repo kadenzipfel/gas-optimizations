@@ -1,4 +1,4 @@
-## Using Mulmod over Mul & Div
+## Using Mulmod Over Mul & Div
 
 If you have to check whether a value obtained by dividing it by a number is exact(i.e. significant digits have not truncated during division), use `mulmod` instead of mul & div as it costs 8 gas. In contrast, `mul` and `div` cost 5 gas each.
 

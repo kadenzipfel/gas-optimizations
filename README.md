@@ -26,7 +26,7 @@
 - [Optimal Comparison Operator](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/optimal-comparison-operator.md)
 - [Payable Functions](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/payable-functions.md)
 - [Function Ordering](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/function-ordering.md)
-- [Using Mulmod over Mul & Div](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/using-mulmod-over-mul&div.md)
+- [Using Mulmod Over Mul & Div](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/using-mulmod-over-mul&div.md)
 
 ## Sources/References
 

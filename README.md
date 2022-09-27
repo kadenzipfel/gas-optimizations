@@ -18,6 +18,7 @@
 - [Explicit Function Visibility](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/explicit-function-visibility.md)
 - [Short Circuiting](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/short-circuiting.md)
 - [Constants and Immutables](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/constants-and-immutables.md)
+- [Struct Bit Packing](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-saving-patterns/struct-bit-packing.md)
 
 ## Gas Golfing
 

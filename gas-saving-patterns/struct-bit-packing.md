@@ -1,3 +1,5 @@
+## Struct Bit Packing
+
 Solidity's [storage layout](https://docs.soliditylang.org/en/v0.8.15/internals/layout_in_storage.html?highlight=storage%20layout) consists of 2\*\*256 32 byte slots, with reads and writes requiring a fixed cost per slot. As such, to reduce gas costs, we should aim to use as few slots as necessary.
 
 When variables are stored, they are done so in a compact way such that multiple values sometimes use the same slot. Structs may contain multiple data types, of which will also be stored as compact as the data types allow. For example, the following struct will consume 3 slots:

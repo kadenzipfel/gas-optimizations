@@ -16,6 +16,6 @@ If however, we know for a fact our uints will have a low enough upper bound, we 
 struct OneSlot {
     uint48 firstValue; // if the value will never exceed 2**48 we can do this to use just 48 bits == 6 bytes
     uint48 secondValue; // if the value will never exceed 2**48 we can do this to use just 48 bits == 6 bytes
-    address thirdValue; // since we've only consumed 12 bytes we can fit our 20 byte address for exactly 32 bytes
+    address thirdValue; // since we've only consumed 12 bytes we can fit our 20 byte address for a total of 32 bytes
 }
 ```

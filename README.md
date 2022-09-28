@@ -28,6 +28,7 @@
 - [Payable Functions](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/payable-functions.md)
 - [Function Ordering](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/function-ordering.md)
 - [Using Mulmod Over Mul & Div](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/using-mulmod-over-mul&div.md)
+- [Optimal Increment and Decrement Operators](https://github.com/KadenZipfel/gas-optimizations/blob/main/gas-golfing/optimal-increment-and-decrement-operators.md)
 
 ## Sources/References
 

@@ -1,6 +1,6 @@
 ## Loop Fusion
 
-Occasionally in smart contracts, you may find that there are two loops with the same parameters. In the case that the loop parameters are the same, there is no reason to have separate loops.
+Occasionally in smart contracts, you may find that there are two loops with the same parameters. In the case that the loop parameters are the same, they should be combined if possible.
 
 ```
  function loopFusion(uint x, uint y) public pure returns(uint) {

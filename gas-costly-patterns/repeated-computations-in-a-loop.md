@@ -8,7 +8,8 @@ uint b = 5;
 function repeatedComputations(uint x) public returns(uint) {
   uint sum = 0;
   for(uint i = 0; i <= x; i++) {
-    sum = sum + a * b;
+    sum = a + b;
   }
+  return sum;
 }
 ```
